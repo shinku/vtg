@@ -1,0 +1,22 @@
+{
+  "name": "vtg-backend",
+  "version": "1.0.0",
+  "description": "backend",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shinku/vtg.git"
+  },
+  "keywords": [
+    "vtg"
+  ],
+  "author": "shin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shinku/vtg/issues"
+  },
+  "homepage": "https://github.com/shinku/vtg#readme"
+}

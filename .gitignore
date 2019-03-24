@@ -1,0 +1,15 @@
+#backend folders
+backend/dest/logs/
+backend/dest/npm-debug.log
+backend/dest/yarn-error.log
+backend/dest/node_modules/
+backend/dest/package-lock.json
+backend/dest/yarn.lock
+backend/dest/coverage/
+backend/dest/.idea/
+backend/dest/run/
+backend/dest/.DS_Store
+backend/dest/*.sw*
+backend/dest/*.un~
+backend/dest/typings/
+backend/dest/.nyc_output/
